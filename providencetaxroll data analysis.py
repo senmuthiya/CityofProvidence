@@ -53,9 +53,4 @@ axes[0, 1].set_title('Box Plot of Assessments')
 plt.tight_layout()
 plt.show()
 
-
-
-
-
-
 # print(df.dtypes)
